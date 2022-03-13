@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dark-Alone
+- 👋 Hi, I’m Mark aka @Dark-Alone
 
 - I'm currently learning SwiftUI and Combine
 - I had experience with UIKit, CoreData, GoogleMaps, MapKit
 
-- And I am looking for a job in iOS dev 👀 
+- I am looking for a job as iOS dev 👀 to be a Pro :-)
