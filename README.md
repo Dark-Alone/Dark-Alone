@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mark aka @Dark-Alone
 
-- I'm currently learning SwiftUI and Combine
-- I had experience with UIKit, CoreData, GoogleMaps, MapKit
+- I'm actively learning SwiftUI and Combine
+- 
+- I had experience in projects with SwiftUI, Combine, UIKit, CoreData, GoogleMapsAPI, GoogleDriveRestAPI, ZipFoundation, MapKit
 
-- I am looking for a job as iOS dev 👀 to be a Pro :-)
+- I am looking for a job as Junior iOS dev in order to become proffesional
